@@ -2,6 +2,30 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
+This project is a complete running model of a Quiz Webapp.
+## The technologies used are
+
+## 1. Angular
+## 2. Node.js
+## 3. MongoDB
+## 4. Express.js
+
+## Features
+
+As teacher:
+
+Able to create a new module, mark it as enabled/disabled.
+Able to add MCQ's for each module.
+Able to specify the correct answer for every question.
+Able to set the duration of the exam.
+
+As a student:
+Able to enter my details.
+Able to open the list of available modules and select the enabled ones.
+Can select the correct answers for every question and submit the answer.
+Able to see the score after submission.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
